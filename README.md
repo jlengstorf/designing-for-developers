@@ -1,10 +1,9 @@
-CSS Pseudo-Element Master Class
-===============================
+Designing for Developers
+========================
 
-The slide deck for the pseudo-element master class presentation by 
-[Jason Lengstorf](http://lengstorf.com).
+The slide deck for the "Designing for Developers: Bridging the Gap Between Designers and Developers" by [Jason Lengstorf](http://lengstorf.com).
 
-[View the slides online.](http://jlengstorf.github.io/pseudo-element-master-class/)
+[View the slides online.](http://jlengstorf.github.io/designing-for-developers/)
 
 **NOTE:** The slides are only tested in Chrome. Sorry if they break in your browser.
 
