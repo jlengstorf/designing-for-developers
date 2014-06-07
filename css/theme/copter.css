@@ -163,7 +163,6 @@ body {
       text-align: left; }
   .reveal .slides > section blockquote {
     box-shadow: none;
-    text-align: left;
     color: #676662; }
 .reveal .slide-background {
   background-size: cover !important;
